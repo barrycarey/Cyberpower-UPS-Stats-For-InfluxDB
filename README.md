@@ -10,6 +10,8 @@ Put your Plex and Influx info in config.ini and run CyberpowerUpsStats.py
 
 ***Requirements***
 
-You will need the influxdb library installed to use this
+Python 3
 
-You also need  PowerPanel Business Edition running
+You will need the influxdb library installed to use this - [Found Here](https://github.com/influxdata/influxdb-python)
+
+You also need  PowerPanel Business Edition running - [Found Here](https://cyberpowersystems.com/products/software/)
